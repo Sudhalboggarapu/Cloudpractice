@@ -11,12 +11,12 @@ class MyHandler(BaseHTTPRequestHandler):
  ## ## ## ## ##    ===
 /"""""""""""""""""\___/ ===
 {                       /  ===-
-\______ O           __/
+\______ O   0        __/
  \    \         __/
   \____\_______/
 
 
-Good Morning from Sudha! Today is 3rd July 
+Good Morning from Sudha! Today is 3rd July and  tmrw is 4th july
 ''')
 
 def run():
